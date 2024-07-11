@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vitor/Desktop/6%20periodo/introdu%C3%A7%C3%A3o%20ciencia%20de%20dados/IF679---Analise-Bank-Churn/mlruns/669967341799188521/acf13ffc59f64ef792f1285a253b3c4a/artifacts
+end_time: 1720734307366
+entry_point_name: ''
+experiment_id: '669967341799188521'
+lifecycle_stage: active
+run_id: acf13ffc59f64ef792f1285a253b3c4a
+run_name: Regressão Logística
+run_uuid: acf13ffc59f64ef792f1285a253b3c4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720734266113
+status: 3
+tags: []
+user_id: vitor

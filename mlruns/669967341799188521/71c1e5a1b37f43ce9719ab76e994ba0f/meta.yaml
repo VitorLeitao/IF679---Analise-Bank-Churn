@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vitor/Desktop/6%20periodo/introdu%C3%A7%C3%A3o%20ciencia%20de%20dados/IF679---Analise-Bank-Churn/mlruns/669967341799188521/71c1e5a1b37f43ce9719ab76e994ba0f/artifacts
+end_time: 1720734367104
+entry_point_name: ''
+experiment_id: '669967341799188521'
+lifecycle_stage: active
+run_id: 71c1e5a1b37f43ce9719ab76e994ba0f
+run_name: K-Vizinhos Mais Próximos
+run_uuid: 71c1e5a1b37f43ce9719ab76e994ba0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720734356222
+status: 3
+tags: []
+user_id: vitor

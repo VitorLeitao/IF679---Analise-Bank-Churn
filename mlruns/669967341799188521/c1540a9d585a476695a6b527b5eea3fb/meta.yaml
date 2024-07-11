@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vitor/Desktop/6%20periodo/introdu%C3%A7%C3%A3o%20ciencia%20de%20dados/IF679---Analise-Bank-Churn/mlruns/669967341799188521/c1540a9d585a476695a6b527b5eea3fb/artifacts
+end_time: 1720734336348
+entry_point_name: ''
+experiment_id: '669967341799188521'
+lifecycle_stage: active
+run_id: c1540a9d585a476695a6b527b5eea3fb
+run_name: Floresta Aleatória
+run_uuid: c1540a9d585a476695a6b527b5eea3fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720734307389
+status: 3
+tags: []
+user_id: vitor
